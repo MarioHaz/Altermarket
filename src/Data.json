@@ -1,0 +1,68 @@
+{
+    "products": [
+      {
+        "name": "iPhone 14 Pro Ma",
+        "unit_price": 5000,
+        "stock": 5,
+        "type": "technology",
+        "img": "https://cdn.shopify.com/s/files/1/0604/8373/1606/products/IMG-7380043_823x.jpg?v=1673373173"
+      },
+      {
+        "name": "Timon Racing Carrera",
+        "unit_price": 8000,
+        "stock": 2,
+        "type": "technology",
+        "img": "https://falabella.scene7.com/is/image/FalabellaCO/gsc_117302452_1732071_2?wid=800&hei=800&qlt=70"
+      },
+      {
+        "name": "Control joystick inalámbrico",
+        "unit_price": 1000,
+        "stock": 1,
+        "type": "technology",
+        "img": "https://i.linio.com/p/a3feb464d966bfc548bbaa4c14cbe666-product.jpg"
+      },
+      {
+        "name": "Bicicicleta Roadmaster",
+        "unit_price": 1800,
+        "stock": 1,
+        "type": "sport",
+        "img": "https://cdn.shopify.com/s/files/1/0502/6260/5988/products/DSC_0416.jpg?v=1626360587"
+      },
+      {
+        "name": "Bicicleta Todo Terreno",
+        "unit_price": 200,
+        "stock": 0,
+        "type": "sport",
+        "img": "https://falabella.scene7.com/is/image/FalabellaCO/41292717_1?wid=800&hei=800&qlt=70"
+      },
+      {
+        "name": "Balon De Futbol",
+        "unit_price": 120,
+        "stock": 6,
+        "type": "sport",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTpJBQjUOhpDBS8-ifPqaP-88mDDwQ9gBd8fGBizjyaIlNpd0bNGRb8Xzz2NxEHqd6Vym1rCBkFMYL-TiiQQQ2GQrzIIDVs4y3in1HSv1Gsdkv5SyqWukUQpw&usqp=CAE"
+      },
+      {
+        "name": "Ducha Electrica",
+        "unit_price": 120,
+        "stock": 8,
+        "type": "building",
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ0biD5xrlsj4mfnbi2Q8OY7ZMv4Z-Y23kTX9y2lqjFxnEgkqA0KQY384tYfr24v6ru6X7Nc9BF1FwgmmnO1ZrJmTGGjqUCNniaOIKsaHaD8pEQGtV3Bo3u&usqp=CAE"
+      },
+      {
+        "name": "Gabinete De Baño",
+        "unit_price": 650,
+        "stock": 10,
+        "type": "building",
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-wV-EimloEr85sFSV7ntj5No-H0vQF4zOmAg4Xa0ipvABoTHGSjswa2KeUIkhWjsHUQPeqOsNzBk6EiF6K6votUc57ZDJvDXBqXO-daxJXo_scPm7IF7sDg&usqp=CAE"
+      },
+      {
+        "name": "Mueble Sanitario",
+        "unit_price": 900,
+        "stock": 2,
+        "type": "building",
+        "img": "https://cdn.shopify.com/s/files/1/0445/6716/7139/products/ALB1818-1_540x.jpg?v=1615085475"
+      }
+      
+    ]
+  }
