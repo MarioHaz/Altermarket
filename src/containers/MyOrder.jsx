@@ -66,7 +66,7 @@ const MyOrder = () => {
           </p>
           <p>${sumTotal()}</p>
         </div>
-        <button className="primary-button" onClick={handleCheckout}>Checkout</button>
+        <button className="primary-button" id="checkout" onClick={handleCheckout}>Checkout</button>
       </div>
     </aside>
   );
